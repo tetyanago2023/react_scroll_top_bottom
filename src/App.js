@@ -6,9 +6,6 @@ function App() {
     <div className="App">
       {/* Scroll to Top and Bottom */}
        <ScrollToTopAndBottom/>
-
-      {/* Scroll to a Particular Section */}
-      {/*<ScrollToSection/>*/}
     </div>
   );
 }
